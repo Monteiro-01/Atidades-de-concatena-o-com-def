@@ -1,4 +1,4 @@
-# Atividades de Concatenação com `def`
+# Atividades com `def`
 
 Este repositório reúne exercícios em **Python** que exploram o uso de funções (`def`) para manipulação de strings, cálculos simples e organização de código. O objetivo é praticar a criação de funções reutilizáveis e entender como estruturar programas de forma clara e eficiente.
 
